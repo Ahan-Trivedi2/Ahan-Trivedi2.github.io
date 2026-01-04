@@ -916,5 +916,9 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
     grid-column: none;
   }
 }
+.post .profile img {
+  width: 80% !important;
+  height: auto !important;
+}
 
 /*# sourceMappingURL=main.css.map */
