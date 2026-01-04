@@ -2,25 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: "<em>Electrical and Computer Engineering @ <a href='https://www.olin.edu' target='_blank'> Olin College of Engineering</a>' 2027</em>"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: portfolio_headcover_ahan.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>1000 Olin Way</p>
+    <p>Needham, MA 02492</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Welcome to my portfolio! Here's an overview of who I am academically and professionally.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+  - I have experience in circuit design, software development, and semiconductors.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+  - I spent last summer (May–August 2025) at [Micron Technology](https://www.micron.com) working on heterogeneous integration approaches for high-bandwidth memory (HBM) targeting AI workloads.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+  - I conduct research under [Dr. Georgia Van de Zande](https://www.olin.edu/bios/georgia-van-de-zande) at Olin College, focusing on design computation and natural language processing.
+
+<strong>This portfolio highlights my resume/cv, projects, research publications, and teaching experience.</strong>

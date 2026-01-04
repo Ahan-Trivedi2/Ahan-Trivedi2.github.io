@@ -13,3 +13,9 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+.post .profile img {
+  width: 80% !important;
+  height: auto !important;
+}
+
