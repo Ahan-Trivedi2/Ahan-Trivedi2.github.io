@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Multi-Client Chat Server
+description: 
+img: assets/img/multi_client_chat_server.png
+importance: 2
+category: 
 ---
 
 Every project has a beautiful feature showcase page.

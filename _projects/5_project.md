@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: 32-bit RISC-V (RV32IM) Multicycle Processor
+description: 
+img: assets/img/gtkwave.png
+importance: 5
+category: 
 ---
 
 Every project has a beautiful feature showcase page.

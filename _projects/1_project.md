@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: 7-Bit DAC Design & Layout
+description: 
+img: assets/img/DAC.png
 importance: 1
-category: work
+category: 
 ---
 
 Every project has a beautiful feature showcase page.

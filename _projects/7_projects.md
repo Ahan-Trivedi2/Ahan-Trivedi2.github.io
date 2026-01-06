@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Statistical Database with Differential Privacy
+title: CAN Display Board
 description: 
-img: assets/img/sql_db.png
-importance: 6
+img: assets/img/can_display_board.png
+importance: 7
 category: 
 ---
 

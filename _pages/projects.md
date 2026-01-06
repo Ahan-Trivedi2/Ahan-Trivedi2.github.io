@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here are some of my engineering projects that I'm most proud of!
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories:
 horizontal: false
 ---
 
@@ -27,7 +27,7 @@ horizontal: false
     </div>
   </div>
   {%- else -%}
-  <div class="grid">
+  <div class="projects-grid">
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
@@ -48,7 +48,7 @@ horizontal: false
     </div>
   </div>
   {%- else -%}
-  <div class="grid">
+  <div class="projects-grid">
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
