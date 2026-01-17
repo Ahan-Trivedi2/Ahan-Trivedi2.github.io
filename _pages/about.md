@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Welcome to my portfolio! Here's an overview of who I am academically and professionally.
 
-  - I have experience in circuit design, software development, and semiconductors.
+  - I have experience in integrated circuit design, software development, and semiconductors.
 
   - I spent last summer (May–August 2025) at [Micron Technology](https://www.micron.com) working on heterogeneous integration approaches for high-bandwidth memory (HBM) targeting AI workloads.
 
