@@ -996,4 +996,65 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
   margin: 0 !important; /* cancel auto-centering */
 }
 
+/* =========================================================
+   Internships page (bootstrap 2-col): equal-height cards
+   ========================================================= */
+/* Make each column a flex container so the card can stretch */
+.projects .row > .col {
+  display: flex;
+}
+
+/* If the include wraps card with a link, make link fill height */
+.projects .row > .col > a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+}
+
+/* Make the card itself fill the column and behave like your grid cards */
+.projects .row .card {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Fixed image height (same as projects grid) */
+.projects .row .card figure {
+  margin: 0;
+}
+
+.projects .row .card figure img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  display: block;
+}
+
+/* Stretch the card body so the overall height matches the tallest card */
+.projects .row .card .card-body {
+  flex: 1;
+}
+
+/* Optional: align titles so descriptions/buttons start same height */
+.projects .row .card .card-title {
+  min-height: 3.5em; /* tweak this if needed */
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 aspect ratio */
+  overflow: hidden;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 /*# sourceMappingURL=main.css.map */
