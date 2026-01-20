@@ -25,4 +25,4 @@ Welcome to my portfolio! Here's an overview of who I am academically and profess
 
   - I conduct research under [Dr. Georgia Van de Zande](https://www.olin.edu/bios/georgia-van-de-zande) at Olin College, focusing on design computation and natural language processing.
 
-<strong>This portfolio highlights my resume, projects, research publications, and teaching experience.</strong>
+<strong>This portfolio highlights my resume, internships, projects, research publications, and teaching experience.</strong>
