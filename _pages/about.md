@@ -24,5 +24,7 @@ Welcome to my portfolio! Here's an overview of who I am academically and profess
   - I spent last summer (May–August 2025) at [Micron Technology](https://www.micron.com) working on heterogeneous integration approaches for high-bandwidth memory (HBM) targeting AI workloads.
 
   - I conduct research under [Dr. Georgia Van de Zande](https://www.olin.edu/bios/georgia-van-de-zande) at Olin College, focusing on design computation and natural language processing.
+   
+  - <em>I am currently studying abroad in Ho Chi Minh City, Vietnam.<em>
 
 <strong>This portfolio highlights my resume, internships, projects, research publications, and teaching experience.</strong>
