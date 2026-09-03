@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Product Developement Engineering Intern
+title: Product Development Engineering Intern
 description: 
 img: assets/img/Velo3d_logo.png
 importance: 2

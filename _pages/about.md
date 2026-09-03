@@ -19,12 +19,10 @@ social: true  # includes social icons at the bottom of the page
 ---
 Welcome to my portfolio! Here's an overview of who I am academically and professionally.
 
-  - I have experience in integrated circuit design, software development, and semiconductors.
+  - I have experience in integrated circuit design, software development, and testing.
 
-  - I spent last summer (May–August 2025) at [Micron Technology](https://www.micron.com) working on heterogeneous integration approaches for high-bandwidth memory (HBM) targeting AI workloads.
+  - I was a SWE in Test intern last summer at [MathWorks](https://www.mathworks.com/). I spent the previous summer at [Micron Technology](https://www.micron.com) working on heterogeneous integration approaches for high-bandwidth memory (HBM) targeting AI workloads.
 
   - I conduct research under [Dr. Georgia Van de Zande](https://www.olin.edu/bios/georgia-van-de-zande) at Olin College, focusing on design computation and natural language processing.
-   
-  - <em>I am currently studying abroad in Ho Chi Minh City, Vietnam.<em>
 
 <strong>This portfolio highlights my resume, internships, projects, research publications, and teaching experience.</strong>

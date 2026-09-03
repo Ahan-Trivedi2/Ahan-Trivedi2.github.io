@@ -3,7 +3,7 @@ layout: page
 title: Process Integration Engineering Intern 
 description: 
 img: assets/img/micron_logo.png
-importance: 1
+importance: 2
 category: 
 ---
 

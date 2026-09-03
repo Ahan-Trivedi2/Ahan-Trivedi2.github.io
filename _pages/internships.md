@@ -4,7 +4,7 @@ title: internships
 permalink: /internships/
 description: I've had the opportunity to work on impactful technology!
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <div class="projects">
